@@ -1,4 +1,26 @@
 <p>
+  <img align="left" width="190" alt="hello" src="https://user-images.githubusercontent.com/29143795/169716655-34f39b72-3951-466d-9a39-d9fce72f92aa.png">
+</p>
+
+
+<p>
+  <h3> Hi, I'm Sasha! Software Enginner at <a href="https://www.lyssn.io/">LYSSN </a><img src="https://user-images.githubusercontent.com/29143795/169719560-b62876b4-1acf-4b5d-a3a4-420c642d1fde.png" width="20"></em> </h3>
+
+<p float="left">  
+<img width="480" height="165" src="https://github-readme-stats.vercel.app/api?username=AlexFox1777&show_icons=true&hide_border=false&line_height=20&title_color=FC9995&icon_color=A197FC&show_owner=true"/>
+<img  width="310" alt="image" src="https://user-images.githubusercontent.com/29143795/169719836-f02b0250-d653-477f-b44e-04abc9a36f6b.png"/>
+<p>
+</p>
+
+
+
+
+
+
+
+
+
+<!-- <p>
   <img align="left" width="210" alt="hello" src="https://user-images.githubusercontent.com/29143795/169716655-34f39b72-3951-466d-9a39-d9fce72f92aa.png">
 </p>
 
@@ -6,8 +28,15 @@
 <p>
   <h3> Hi, I'm Sasha! Software Enginner at <a href="https://www.lyssn.io/">LYSSN </a><img src="https://user-images.githubusercontent.com/29143795/169719560-b62876b4-1acf-4b5d-a3a4-420c642d1fde.png" width="20"></em> </h3>
 
-  
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=AlexFox1777&show_icons=true&hide_border=false&line_height=20&title_color=FC9995&icon_color=A197FC&show_owner=true"/>
+<p>  
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=AlexFox1777&show_icons=true&hide_border=false&line_height=20&title_color=FC9995&icon_color=A197FC&show_owner=true"/>
+<img align="right" width="325" alt="image" src="https://user-images.githubusercontent.com/29143795/169719836-f02b0250-d653-477f-b44e-04abc9a36f6b.png">
+<p>
+</p>
+
+
+<br/>
+
   <h3 color="#A197FC">Things I code with: </h3>
   <p>
     <img alt="Java" src="https://img.shields.io/badge/-Java-F05032?style=flat-square&logo=Java&logoColor=white" />
@@ -23,7 +52,6 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   </p>
-</p>
 
-<br/>
+<br/> -->
   
