@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="190" alt="hello" src="https://user-images.githubusercontent.com/29143795/169716655-34f39b72-3951-466d-9a39-d9fce72f92aa.png">
+  <img align="left" width="180" alt="hello" src="https://user-images.githubusercontent.com/29143795/169716655-34f39b72-3951-466d-9a39-d9fce72f92aa.png">
 </p>
 
 
@@ -7,7 +7,7 @@
   <h3> Hi, I'm Sasha! Software Enginner at <a href="https://www.lyssn.io/">LYSSN </a><img src="https://user-images.githubusercontent.com/29143795/169719560-b62876b4-1acf-4b5d-a3a4-420c642d1fde.png" width="20"></em> </h3>
 
 <p float="left">  
-<img width="480" height="165" src="https://github-readme-stats.vercel.app/api?username=AlexFox1777&show_icons=true&hide_border=false&line_height=20&title_color=FC9995&icon_color=A197FC&show_owner=true"/>
+<img width="410" height="165" src="https://github-readme-stats.vercel.app/api?username=AlexFox1777&show_icons=true&hide_border=false&line_height=20&title_color=FC9995&icon_color=A197FC&show_owner=true"/>
 <img  width="310" alt="image" src="https://user-images.githubusercontent.com/29143795/169719836-f02b0250-d653-477f-b44e-04abc9a36f6b.png"/>
 <p>
 </p>
