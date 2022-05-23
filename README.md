@@ -1,21 +1,24 @@
 <p>
-  <img align="left" width="150" alt="hello" src="https://user-images.githubusercontent.com/29143795/169716655-34f39b72-3951-466d-9a39-d9fce72f92aa.png">
+  <img align="left" width="165" alt="hello" src="https://user-images.githubusercontent.com/29143795/169716655-34f39b72-3951-466d-9a39-d9fce72f92aa.png">
 </p>
 
 
 <p>
   <h2> Hi, I'm Sasha! Software Enginner at <a href="https://www.lyssn.io/">LYSSN </a><img src="https://user-images.githubusercontent.com/29143795/169719560-b62876b4-1acf-4b5d-a3a4-420c642d1fde.png" width="20"></em> </h2>
 
-<p float="left">  
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/29143795/169722306-6c976f3c-4746-4b12-95f1-ba07ac203984.png">
+
+</p>
+
+
+<!-- <p float="left">  
   🌱 Woman who codes • Siberian • Code for Good </br>
   👩‍💻 Back-end dev • Java • Tomcat • AWS • PostgresSQL </br>
   ✨ Front-end dev • JS • React • Redux </br>
   🍰 Music • Tea • Art • Manga • Animation • Games </br>
 <p>
-</p>
-
-
-
+   -->
+  
 <!-- 
   
     <img alt="Java" src="https://img.shields.io/badge/-Java-F05032?style=flat-square&logo=Java&logoColor=white" />
@@ -30,3 +33,5 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
  -->
+ 
+ 
