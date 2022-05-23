@@ -7,14 +7,17 @@
   <h2> Hi, I'm Sasha! Software Enginner at <a href="https://www.lyssn.io/">LYSSN </a><img src="https://user-images.githubusercontent.com/29143795/169719560-b62876b4-1acf-4b5d-a3a4-420c642d1fde.png" width="20"></em> </h2>
 
 <p float="left">  
-<img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=AlexFox1777&show_icons=true&hide_border=false&line_height=20&title_color=FC9995&icon_color=A197FC&show_owner=true"/>
+  🌱 Woman who codes • Siberian • Code for Good </br>
+  👩‍💻 Back-end dev • Java • Tomcat • AWS • PostgresSQL </br>
+  ✨ Front-end dev • JS • React • Redux </br>
+  🍰 Music • Tea • Art • Manga • Animation • Games </br>
 <p>
 </p>
 
 
 
-  <h3 color="#A197FC">Things I code with: </h3>
-  <p>
+<!-- 
+  
     <img alt="Java" src="https://img.shields.io/badge/-Java-F05032?style=flat-square&logo=Java&logoColor=white" />
     <img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=Amazon AWS&logoColor=white" />
     <img alt="Tomcat" src="https://img.shields.io/badge/-Apache Tomcat-F7B93E?style=flat-square&logo=Apache Tomcat&logoColor=white" />
@@ -26,6 +29,4 @@
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  </p>
-  
+ -->
