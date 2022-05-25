@@ -17,6 +17,7 @@
 
 </p>
 
+<!-- <img align="left" width="165" alt="hello" src="https://user-images.githubusercontent.com/29143795/170297284-5c869406-5dbe-4a13-8105-d4e34900ad42.png"> -->
 
 <!-- <p float="left">  
   🌱 Woman who codes • Siberian • Code for Good </br>
