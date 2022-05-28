@@ -1,14 +1,13 @@
 <p>
-  <img align="left" width="400" alt="hello" src="https://user-images.githubusercontent.com/29143795/170838512-2bd7ab17-1233-4f20-98b5-ed917a3ca1f0.png">
+  <img align="left" width="370" alt="hello" src="https://user-images.githubusercontent.com/29143795/170838512-2bd7ab17-1233-4f20-98b5-ed917a3ca1f0.png">
 </p>
 
-<p>
+<p >
   <img width="350" alt="image" src="https://user-images.githubusercontent.com/29143795/170841043-bfd145aa-7f7d-4e9e-82ac-85bb25a5993d.png"> <a href="https://www.lyssn.io/"></a>
-  
-<!-- <img width="450" alt="image" src="https://user-images.githubusercontent.com/29143795/170841210-30a3eab5-8e20-48a7-b226-c7f3415d83b5.png"> -->
-<!-- <img width="400" alt="image" src="https://user-images.githubusercontent.com/29143795/170841299-22fd1c58-aec9-4cfe-9c89-eb6d920db674.png"> -->
+
 <img width="441" alt="image" src="https://user-images.githubusercontent.com/29143795/170841448-b1a9f19a-4070-45ec-afb9-3ded875b168f.png">
-  
+</p>
+ 
 <!-- <p float="left">  
   🌱 Woman who codes • Siberian • Code for Good </br>
   👩‍💻 Back-end dev • Java • Tomcat • AWS • PostgresSQL </br>
@@ -16,10 +15,6 @@
   🍰 Music • Tea • Art • Manga • Animation • Games </br>
 <p>
 -->
-  
-<br/>  
-<br/>  
-<br/>  
 
 ## Technical skills
   
