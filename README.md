@@ -34,6 +34,6 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-![](https://github-readme-stats.vercel.app/api?username=AlexFox1777&show_icons=true&hide=contribs&cache_seconds=86400&title_color=a0dbac&icon_color=a0dbac)
+![](https://github-readme-stats.vercel.app/api?username=AlexFox1777&hide=contribs&cache_seconds=86400&title_color=a0dbac&icon_color=a0dbac)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFox1777&layout=compact&title_color=a0dbac)
  
