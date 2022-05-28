@@ -3,7 +3,6 @@
 </p>
 
 <p >
-<!--   <img width="350" alt="image" src="https://user-images.githubusercontent.com/29143795/170841043-bfd145aa-7f7d-4e9e-82ac-85bb25a5993d.png"> <a href="https://www.lyssn.io/"></a> -->
 <img width="226" alt="image" src="https://user-images.githubusercontent.com/29143795/170841625-13d7ab68-59a8-4cbf-8ddd-0091659a68e3.png">
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/29143795/170841704-04bf82e0-a4af-4663-aae8-2fa2fdc40bbd.png">
 </p>
@@ -15,6 +14,8 @@
   🍰 Music • Tea • Art • Manga • Animation • Games </br>
 <p>
 -->
+
+<br/>
 
 ## Technical skills
   
