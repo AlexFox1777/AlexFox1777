@@ -3,9 +3,9 @@
 </p>
 
 <p >
-  <img width="350" alt="image" src="https://user-images.githubusercontent.com/29143795/170841043-bfd145aa-7f7d-4e9e-82ac-85bb25a5993d.png"> <a href="https://www.lyssn.io/"></a>
-
-<img width="441" alt="image" src="https://user-images.githubusercontent.com/29143795/170841448-b1a9f19a-4070-45ec-afb9-3ded875b168f.png">
+<!--   <img width="350" alt="image" src="https://user-images.githubusercontent.com/29143795/170841043-bfd145aa-7f7d-4e9e-82ac-85bb25a5993d.png"> <a href="https://www.lyssn.io/"></a> -->
+<img width="226" alt="image" src="https://user-images.githubusercontent.com/29143795/170841625-13d7ab68-59a8-4cbf-8ddd-0091659a68e3.png">
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/29143795/170841704-04bf82e0-a4af-4663-aae8-2fa2fdc40bbd.png">
 </p>
  
 <!-- <p float="left">  
@@ -26,7 +26,7 @@
 <img alt="React" src="https://img.shields.io/badge/-React-dafbe1?style=flat-square&logoColor=black" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-dafbe1?style=flat-square&logoColor=black" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-dafbe1?style=flat-square&logoColor=black" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-dafbe1?style=flat-square&logoColor=black" /><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-dafbe1?style=flat-square&logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-dafbe1?style=flat-square&logoColor=black" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-dafbe1?style=flat-square&logoColor=black" />
 
 
 ## Stats
