@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <img width="400" alt="image" src="https://user-images.githubusercontent.com/29143795/170841043-bfd145aa-7f7d-4e9e-82ac-85bb25a5993d.png"> <a href="https://www.lyssn.io/"></a>
+  <img width="350" alt="image" src="https://user-images.githubusercontent.com/29143795/170841043-bfd145aa-7f7d-4e9e-82ac-85bb25a5993d.png"> <a href="https://www.lyssn.io/"></a>
   
 <!-- <img width="450" alt="image" src="https://user-images.githubusercontent.com/29143795/170841210-30a3eab5-8e20-48a7-b226-c7f3415d83b5.png"> -->
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/29143795/170841299-22fd1c58-aec9-4cfe-9c89-eb6d920db674.png">
